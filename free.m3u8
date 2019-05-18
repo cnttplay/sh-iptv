@@ -1,0 +1,112 @@
+﻿#EXTM3U
+#EXTINF:-1,group-title="听风免费源",另有超清收费源
+http://117.156.28.119/270000001111/1110000079/index.m3u8
+#EXTINF:-1,group-title="听风免费源",加微信id_van_helsing
+http://124.47.33.200/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1,group-title="听风免费源",1000多个频道
+http://124.47.33.200/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:-1,group-title="听风免费源",全部超清高清台
+http://124.47.33.200/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1,group-title="听风免费源",搞活动只要55元
+http://60.221.255.82:9981/stream/channelid/791953034
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/weixin.png",group-title="听风免费源",微信扫码加好友
+http://124.47.33.200/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/zhifu.png",group-title="听风免费源",微信扫码付55元
+http://125.210.158.10:8060/live/CCTV5HD_H265.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-1.png",group-title="听风免费源",CCTV-1
+http://223.82.250.72/live/hdcctv01/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-2.png",group-title="听风免费源",CCTV-2
+http://223.82.250.72/live/cctv-2/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-3.png",group-title="听风免费源",CCTV-3
+http://223.82.250.72/live/cctv-3/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-4.png",group-title="听风免费源",CCTV-4
+http://223.82.250.72/live/cctv-4/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-4.png",group-title="听风免费源",CCTV-5
+http://223.82.250.72/live/cctv-5/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-6.png",group-title="听风免费源",CCTV-6
+http://223.82.250.72/live/cctv-6/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-7.png",group-title="听风免费源",CCTV-7
+http://223.82.250.72/live/cctv-7/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-8.png",group-title="听风免费源",CCTV-8
+http://223.82.250.72/live/cctv-8/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-9.png",group-title="听风免费源",CCTV-9
+http://223.82.250.72/live/cctv-news/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-10.png",group-title="听风免费源",CCTV-10
+http://223.82.250.72/live/cctv-10/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-11.png",group-title="听风免费源",CCTV-11
+http://223.82.250.72/live/cctv-11/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-12.png",group-title="听风免费源",CCTV-12
+http://223.82.250.72/live/cctv-12/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-13.png",group-title="听风免费源",CCTV-13
+http://223.82.250.72/live/cctv-13/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-14.png",group-title="听风免费源",CCTV-14
+http://223.82.250.72/live/cctv-14/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-15.png",group-title="听风免费源",CCTV-15
+http://223.82.250.72/live/cctv-15/1.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/tianjinweishi.png",group-title="听风免费源",旅游卫视
+http://27.148.222.166:6610/00000009/2/01000000000000000000000000000027/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/ningxiaweishi.png",group-title="听风免费源",宁夏卫视
+http://27.148.222.170:6610/00000009/2/01000000000000000000000000000029/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/shandongweishi.png",group-title="听风免费源",山东卫视
+http://27.148.222.172:6610/00000009/2/01000000000000000000000000000005/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/shanxiweishi.png",group-title="听风免费源",山西卫视
+http://27.148.222.172:6610/00000009/2/01000000000000000000000000000008/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/anhuiweishi.png",group-title="听风免费源",安徽卫视
+http://27.148.222.176:6610/00000009/2/01000000000000000000000000000011/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/sichuanweishi.png",group-title="听风免费源",四川卫视
+http://27.148.222.169:6610/00000009/2/01000000000000000000000000000019/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/guangxiweishi.png",group-title="听风免费源",广西卫视
+http://27.148.222.169:6610/00000009/2/01000000000000000000000000000021/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/hebeiweishi.png",group-title="听风免费源",河北卫视
+http://27.148.222.166:6610/00000009/2/01000000000000000000000000000028/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/henanweishi.png",group-title="听风免费源",河南卫视
+http://27.148.222.173:6610/00000009/2/01000000000000000000000000000015/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/gansuweishi.png",group-title="听风免费源",甘肃卫视
+http://27.148.222.172:6610/00000009/2/01000000000000000000000000000010/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/liaoningweishi.png",group-title="听风免费源",辽宁卫视
+http://27.148.222.166:6610/00000009/2/01000000000000000000000000000018/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/jilinweishi.png",group-title="听风免费源",吉林卫视
+http://27.148.222.169:6610/00000009/2/01000000000000000000000000000016/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/xiamenweishi.png",group-title="听风免费源",厦门卫视
+http://27.148.222.173:6610/00000009/2/01000000000000000000000000000014/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/neimengguweishi.png",group-title="听风免费源",内蒙卫视
+http://27.148.222.167:6610/00000009/2/01000000000000000000000000000020/index.m3u8?virtualDomain=00000009.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/yunnanweishi.png",group-title="听风免费源",云南卫视
+http://117.156.28.119/270000001111/1110000099/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数游戏
+http://hls-ott-zhibo.wasu.tv/live/142/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数动画
+http://hls-ott-zhibo.wasu.tv/live/175/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数古装
+http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数剧场
+http://hls-ott-zhibo.wasu.tv/live/231/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数儿歌
+http://hls-ott-zhibo.wasu.tv/live/234/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数游戏
+http://hls-ott-zhibo.wasu.tv/live/237/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数美食
+http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数偶像
+http://hls-ott-zhibo.wasu.tv/live/257/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数视剧
+http://hls-ott-zhibo.wasu.tv/live/258/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数爱情
+http://hls-ott-zhibo.wasu.tv/live/261/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数古装
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数科幻
+http://hls-ott-zhibo.wasu.tv/live/263/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数纪实
+http://hls-ott-zhibo.wasu.tv/live/292/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数时装
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数电影
+http://hls-ott-zhibo.wasu.tv/live/298/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数时装
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1,group-title="听风免费源",华数时尚
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+
